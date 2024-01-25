@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Al-Houssein-Bedoui
+- 👋 Hi, I’m @El-Houssein-Bedoui
 - 👀 I’m interested in java
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
